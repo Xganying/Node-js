@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2017/3/20.
- */
 
 //前端项目自动化-构建
 
