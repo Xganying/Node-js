@@ -2,19 +2,13 @@
 
 这是一些学习Node.js中文件系统模块的练习代码。
 
-## project_construction.js
-
-### 利用js实现的前端项目自动化构建的代码。
+## project_construction.js 利用js实现的前端项目自动化构建的代码。
 
 执行本段代码时候，会在当前文件夹下新建一个名为：myProject的文件夹，在这个文件下包含css,images,js3个文件夹和1个index.html文件，这就简单的实现了一个前端项目的自动化构建。
 
 可在这段基础的代码上，添加更多的功能，从而能更好的自动化构建一个前端项目。
 
-## project_consolidate.js
-
-### 利用js实现的前端项目自动化合并代码的代码。
-
-
+## project_consolidate.js  利用js实现的前端项目自动化合并代码的代码。
 
 - 在执行这段代码前，先执行project_construction.js文件。
 
