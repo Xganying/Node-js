@@ -24,3 +24,7 @@ node中的tcp,http,udp使用简单示例
 ### imooc_node进击示例代码
 
 该文件下包含的代码时慕课网 （http://www.imooc.com/learn/637） 视频教程课中跟着练习的代码，主要包含了一个网页内容小爬虫的示例和node中Stream API的有关运用，主要以复制图片为演示，各种版本改进。
+
+### Connect
+
+Node 学习之Connect模块及其中间件的使用: 示例代码
